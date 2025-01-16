@@ -18,4 +18,4 @@ git clone git@github.com:cherlau/extensao-chrome-remove-iframe.git
 
   <br/>
 
-![Screenshot_1](https://github.com/user-attachments/assets/29b16dfa-908d-43d8-b063-18948d864c69)
+<img src="./public/iframe-remove.png">
