@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Iframe error - Facilita",
+    "version": "2.2",
+    "description": "This extension removes error iframes from Facilita pages. Created by Cherlau Prado.",
+    "permissions": [
+      "storage",
+      "tabs",
+      "webNavigation",
+      "scripting",
+      "activeTab"
+    ],
+    "host_permissions": [
+      "*://*/*"
+    ],
+    "background": {
+      "service_worker": "js/background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "128": "public/icon.png"
+      }
+    },
+    "icons": {
+        "128": "public/icon.png"
+      }
+  }
+  
