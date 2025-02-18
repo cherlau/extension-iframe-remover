@@ -1,5 +1,11 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
 body{
     margin-inline: 11px;
+    min-width: 160px;
 }
 
 .label-text {
